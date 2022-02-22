@@ -4,7 +4,7 @@
   xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
   xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
   <channel>
-    <title>PODCAST TITLE</title>
+    <title>Blablos</title>
     <link>https://PODCASTURL.com/</link>
     <language>en-us</language>
     <atom:link href="https://PODCAST URL.com/feed.xml" rel="self" type="application/rss+xml"/>
@@ -12,13 +12,13 @@
     <itunes:subtitle>PODCAST SUBTITLE</itunes:subtitle>
     <itunes:author>PODCAST CREATOR</itunes:author>
     <itunes:summary>
-PODCAST DESCRIPTION
+Blablo
     </itunes:summary>
     <itunes:keywords>
-KEYWORD1,KEYWORD2,KEYWORD3,...
+Blablo
     </itunes:keywords>
     <description>
-PODCAST DESCRIPTION
+Blablo
     </description>
     <itunes:owner>
       <itunes:name>PODCAST CREATOR</itunes:name>
@@ -30,32 +30,177 @@ PODCAST DESCRIPTION
     <itunes:category text="CATEGORY3"></itunes:category>
 
     <item>
-      <title>EPISODE TITLE</title>
-      <itunes:title>EPISODE TITLE</itunes:title>
-      <itunes:author>PODCAST CREATOR</itunes:author>
+      <title>The Importance of Holiness</title>
+      <itunes:title>The Importance of Holiness</itunes:title>
+      <itunes:author>Blablo</itunes:author>
       <itunes:subtitle>
-EPISODE SUBTITLE
+The Importance of Holiness
       </itunes:subtitle>
       <itunes:summary>
         <![CDATA[
-EPISODE DESCRIPTION
+The Importance of Holiness
 ]]>
       </itunes:summary>
       <description>
         <![CDATA[
-EPISODE DESCRIPTION
+The Importance of Holiness
 ]]>
       </description>
       <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
       <enclosure url="https://s3.amazonaws.com/ligonier-media/series/hol01/mp3/hol01m3i01.mp3" length="LENGTH" type="audio/mpeg"/>
       <itunes:duration>DURATION</itunes:duration>
-      <itunes:season>SEASON #</itunes:season>
-      <itunes:episode>EPISODE #</itunes:episode>
+      <itunes:season>Holiness</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">https://s3.amazonaws.com/ligonier-media/series/hol01/mp3/hol01m3i01.mp3
       </guid>
       <pubDate>EPISODE PUBLISH DATE</pubDate>
-      <itunes:explicit>YES/NO</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>The Trauma of Holiness</title>
+      <itunes:title>The Trauma of Holiness</itunes:title>
+      <itunes:author>Blablo</itunes:author>
+      <itunes:subtitle>
+The Trauma of Holiness
+      </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[
+The Trauma of Holiness
+]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[
+The Trauma of Holiness
+]]>
+      </description>
+      <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+      <enclosure url="https://s3.amazonaws.com/ligonier-media/series/hol01/mp3/hol01m3i02.mp3" length="LENGTH" type="audio/mpeg"/>
+      <itunes:duration>DURATION</itunes:duration>
+      <itunes:season>Holiness</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">https://s3.amazonaws.com/ligonier-media/series/hol01/mp3/hol01m3i02.mp3
+      </guid>
+      <pubDate>EPISODE PUBLISH DATE</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Holiness and Justice</title>
+      <itunes:title>Holiness and Justice</itunes:title>
+      <itunes:author>Blablo</itunes:author>
+      <itunes:subtitle>
+Holiness and Justice
+      </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[
+Holiness and Justice
+]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[
+Holiness and Justice
+]]>
+      </description>
+      <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+      <enclosure url="https://s3.amazonaws.com/ligonier-media/series/hol01/mp3/hol01m3i03.mp3" length="LENGTH" type="audio/mpeg"/>
+      <itunes:duration>DURATION</itunes:duration>
+      <itunes:season>Holiness</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">https://s3.amazonaws.com/ligonier-media/series/hol01/mp3/hol01m3i03.mp3
+      </guid>
+      <pubDate>EPISODE PUBLISH DATE</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Insanity of Luther</title>
+      <itunes:title>Insanity of Luther</itunes:title>
+      <itunes:author>Blablo</itunes:author>
+      <itunes:subtitle>
+Insanity of Luther
+      </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[
+Insanity of Luther
+]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[
+Insanity of Luther
+]]>
+      </description>
+      <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+      <enclosure url="https://s3.amazonaws.com/ligonier-media/series/hol01/mp3/hol01m3i04.mp3" length="LENGTH" type="audio/mpeg"/>
+      <itunes:duration>DURATION</itunes:duration>
+      <itunes:season>Holiness</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">https://s3.amazonaws.com/ligonier-media/series/hol01/mp3/hol01m3i04.mp3
+      </guid>
+      <pubDate>EPISODE PUBLISH DATE</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>The Meaning of Holiness</title>
+      <itunes:title>The Meaning of Holiness</itunes:title>
+      <itunes:author>Blablo</itunes:author>
+      <itunes:subtitle>
+The Meaning of Holiness
+      </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[
+The Meaning of Holiness
+]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[
+The Meaning of Holiness
+]]>
+      </description>
+      <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+      <enclosure url="https://s3.amazonaws.com/ligonier-media/series/hol01/mp3/hol01m3i05.mp3" length="LENGTH" type="audio/mpeg"/>
+      <itunes:duration>DURATION</itunes:duration>
+      <itunes:season>Holiness</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">https://s3.amazonaws.com/ligonier-media/series/hol01/mp3/hol01m3i05.mp3
+      </guid>
+      <pubDate>EPISODE PUBLISH DATE</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>The Holiness of Christ</title>
+      <itunes:title>The Holiness of Christ</itunes:title>
+      <itunes:author>Blablo</itunes:author>
+      <itunes:subtitle>
+The Holiness of Christ
+      </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[
+The Holiness of Christ
+]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[
+The Holiness of Christ
+]]>
+      </description>
+      <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+      <enclosure url="https://s3.amazonaws.com/ligonier-media/series/hol01/mp3/hol01m3i06.mp3" length="LENGTH" type="audio/mpeg"/>
+      <itunes:duration>DURATION</itunes:duration>
+      <itunes:season>Holiness</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">https://s3.amazonaws.com/ligonier-media/series/hol01/mp3/hol01m3i06.mp3
+      </guid>
+      <pubDate>EPISODE PUBLISH DATE</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
